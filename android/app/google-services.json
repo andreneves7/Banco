@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649787648743",
+    "firebase_url": "https://banktest-4cdbc.firebaseio.com",
+    "project_id": "banktest-4cdbc",
+    "storage_bucket": "banktest-4cdbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649787648743:android:698798b0aa67c739ea1042",
+        "android_client_info": {
+          "package_name": "com.example.bankingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649787648743-mrmtuu7cnn5jsfuig126695dqdrjpng0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgU0jS1If854rtFON15KTYwwnfCAA9UUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649787648743-mrmtuu7cnn5jsfuig126695dqdrjpng0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
